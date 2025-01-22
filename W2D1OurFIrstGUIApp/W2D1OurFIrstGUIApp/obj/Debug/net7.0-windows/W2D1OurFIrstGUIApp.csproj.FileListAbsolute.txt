@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\bin\Debug\net7.0-windows\W2D1OurFIrstGUIApp.exe
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\bin\Debug\net7.0-windows\W2D1OurFIrstGUIApp.deps.json
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\bin\Debug\net7.0-windows\W2D1OurFIrstGUIApp.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\bin\Debug\net7.0-windows\W2D1OurFIrstGUIApp.dll
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\bin\Debug\net7.0-windows\W2D1OurFIrstGUIApp.pdb
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\W2D1OurFIrstGUIApp.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\W2D1OurFIrstGUIApp.Form1.resources
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\W2D1OurFIrstGUIApp.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\W2D1OurFIrstGUIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\W2D1OurFIrstGUIApp.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\W2D1OurFIrstGUIApp.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\W2D1OurFIrstGUIApp.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\W2D1OurFIrstGUIApp.dll
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\refint\W2D1OurFIrstGUIApp.dll
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\W2D1OurFIrstGUIApp.pdb
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\W2D1OurFIrstGUIApp.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\W2D1OurFIrstGUIApp\W2D1OurFIrstGUIApp\obj\Debug\net7.0-windows\ref\W2D1OurFIrstGUIApp.dll
