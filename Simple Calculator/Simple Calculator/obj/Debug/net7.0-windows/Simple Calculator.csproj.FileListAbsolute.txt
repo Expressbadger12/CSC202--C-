@@ -15,3 +15,35 @@ C:\Users\FSTEWART86142\source\repos\Simple Calculator\Simple Calculator\obj\Debu
 C:\Users\FSTEWART86142\source\repos\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.genruntimeconfig.cache
 C:\Users\FSTEWART86142\source\repos\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\ref\Simple Calculator.dll
 C:\Users\FSTEWART86142\source\repos\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple_Calculator.Form1.resources
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.exe
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.deps.json
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.runtimeconfig.json
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.dll
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.pdb
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple_Calculator.Form1.resources
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.AssemblyInfo.cs
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.dll
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\refint\Simple Calculator.dll
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.pdb
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.genruntimeconfig.cache
+C:\Users\fboon\Desktop\CSC202\Simple calculator\Simple Calculator\obj\Debug\net7.0-windows\ref\Simple Calculator.dll
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.exe
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.deps.json
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.runtimeconfig.json
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.dll
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.pdb
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple_Calculator.Form1.resources
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.AssemblyInfo.cs
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.dll
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\refint\Simple Calculator.dll
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.pdb
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.genruntimeconfig.cache
+C:\Users\fboon\OneDrive\BackupDesktop\CSC202-day1\CSC202--C--main\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\ref\Simple Calculator.dll
