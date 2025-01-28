@@ -1,0 +1,10 @@
+C:\Users\fboon\Desktop\CSC202\csc202guifrontend\csc202guifrontend\bin\Debug\csc202guifrontend.exe.config
+C:\Users\fboon\Desktop\CSC202\csc202guifrontend\csc202guifrontend\bin\Debug\csc202guifrontend.exe
+C:\Users\fboon\Desktop\CSC202\csc202guifrontend\csc202guifrontend\bin\Debug\csc202guifrontend.pdb
+C:\Users\fboon\Desktop\CSC202\csc202guifrontend\csc202guifrontend\obj\Debug\csc202guifrontend.csproj.AssemblyReference.cache
+C:\Users\fboon\Desktop\CSC202\csc202guifrontend\csc202guifrontend\obj\Debug\csc202guifrontend.Form1.resources
+C:\Users\fboon\Desktop\CSC202\csc202guifrontend\csc202guifrontend\obj\Debug\csc202guifrontend.Properties.Resources.resources
+C:\Users\fboon\Desktop\CSC202\csc202guifrontend\csc202guifrontend\obj\Debug\csc202guifrontend.csproj.GenerateResource.cache
+C:\Users\fboon\Desktop\CSC202\csc202guifrontend\csc202guifrontend\obj\Debug\csc202guifrontend.csproj.CoreCompileInputs.cache
+C:\Users\fboon\Desktop\CSC202\csc202guifrontend\csc202guifrontend\obj\Debug\csc202guifrontend.exe
+C:\Users\fboon\Desktop\CSC202\csc202guifrontend\csc202guifrontend\obj\Debug\csc202guifrontend.pdb
