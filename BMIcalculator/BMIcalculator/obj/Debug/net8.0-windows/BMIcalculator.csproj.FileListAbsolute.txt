@@ -1,0 +1,16 @@
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\bin\Debug\net8.0-windows\BMIcalculator.exe
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\bin\Debug\net8.0-windows\BMIcalculator.deps.json
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\bin\Debug\net8.0-windows\BMIcalculator.runtimeconfig.json
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\bin\Debug\net8.0-windows\BMIcalculator.dll
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\bin\Debug\net8.0-windows\BMIcalculator.pdb
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\BMIcalculator.Form1.resources
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\BMIcalculator.csproj.GenerateResource.cache
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\BMIcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\BMIcalculator.AssemblyInfoInputs.cache
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\BMIcalculator.AssemblyInfo.cs
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\BMIcalculator.csproj.CoreCompileInputs.cache
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\BMIcalculator.dll
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\refint\BMIcalculator.dll
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\BMIcalculator.pdb
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\BMIcalculator.genruntimeconfig.cache
+C:\Users\fboon\Desktop\CSC202\BMIcalculator\BMIcalculator\obj\Debug\net8.0-windows\ref\BMIcalculator.dll
