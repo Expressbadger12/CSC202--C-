@@ -1,0 +1,16 @@
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\bin\Debug\net8.0-windows\4.1Conditionals.exe
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\bin\Debug\net8.0-windows\4.1Conditionals.deps.json
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\bin\Debug\net8.0-windows\4.1Conditionals.runtimeconfig.json
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\bin\Debug\net8.0-windows\4.1Conditionals.dll
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\bin\Debug\net8.0-windows\4.1Conditionals.pdb
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\_4._1Conditionals.Form1.resources
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\4.1Conditionals.csproj.GenerateResource.cache
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\4.1Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\4.1Conditionals.AssemblyInfoInputs.cache
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\4.1Conditionals.AssemblyInfo.cs
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\4.1Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\4.1Conditionals.dll
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\refint\4.1Conditionals.dll
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\4.1Conditionals.pdb
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\4.1Conditionals.genruntimeconfig.cache
+C:\Users\fboon\Desktop\CSC202\4.1Conditionals\4.1Conditionals\obj\Debug\net8.0-windows\ref\4.1Conditionals.dll
