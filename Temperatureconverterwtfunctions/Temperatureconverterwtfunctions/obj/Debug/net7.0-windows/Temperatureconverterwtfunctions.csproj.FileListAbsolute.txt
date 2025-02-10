@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\bin\Debug\net7.0-windows\Temperatureconverterwtfunctions.exe
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\bin\Debug\net7.0-windows\Temperatureconverterwtfunctions.deps.json
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\bin\Debug\net7.0-windows\Temperatureconverterwtfunctions.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\bin\Debug\net7.0-windows\Temperatureconverterwtfunctions.dll
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\bin\Debug\net7.0-windows\Temperatureconverterwtfunctions.pdb
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\Temperatureconverterwtfunctions.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\Temperatureconverterwtfunctions.Form1.resources
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\Temperatureconverterwtfunctions.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\Temperatureconverterwtfunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\Temperatureconverterwtfunctions.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\Temperatureconverterwtfunctions.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\Temperatureconverterwtfunctions.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\Temperatureconverterwtfunctions.dll
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\refint\Temperatureconverterwtfunctions.dll
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\Temperatureconverterwtfunctions.pdb
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\Temperatureconverterwtfunctions.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\Temperatureconverterwtfunctions\Temperatureconverterwtfunctions\obj\Debug\net7.0-windows\ref\Temperatureconverterwtfunctions.dll
