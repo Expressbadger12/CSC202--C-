@@ -1,0 +1,17 @@
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\bin\Debug\net8.0-windows\5.1Functions.exe
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\bin\Debug\net8.0-windows\5.1Functions.deps.json
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\bin\Debug\net8.0-windows\5.1Functions.runtimeconfig.json
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\bin\Debug\net8.0-windows\5.1Functions.dll
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\bin\Debug\net8.0-windows\5.1Functions.pdb
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\_5._1Functions.Form1.resources
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\_5._1Functions.Properties.Resources.resources
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\5.1Functions.csproj.GenerateResource.cache
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\5.1Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\5.1Functions.AssemblyInfoInputs.cache
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\5.1Functions.AssemblyInfo.cs
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\5.1Functions.csproj.CoreCompileInputs.cache
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\5.1Functions.dll
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\refint\5.1Functions.dll
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\5.1Functions.pdb
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\5.1Functions.genruntimeconfig.cache
+C:\Users\fboon\Desktop\CSC202\5.1Functions\5.1Functions\obj\Debug\net8.0-windows\ref\5.1Functions.dll
