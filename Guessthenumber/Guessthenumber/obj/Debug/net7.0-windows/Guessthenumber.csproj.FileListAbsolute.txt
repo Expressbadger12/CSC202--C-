@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\bin\Debug\net7.0-windows\Guessthenumber.exe
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\bin\Debug\net7.0-windows\Guessthenumber.deps.json
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\bin\Debug\net7.0-windows\Guessthenumber.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\bin\Debug\net7.0-windows\Guessthenumber.dll
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\bin\Debug\net7.0-windows\Guessthenumber.pdb
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\Guessthenumber.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\Guessthenumber.Form1.resources
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\Guessthenumber.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\Guessthenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\Guessthenumber.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\Guessthenumber.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\Guessthenumber.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\Guessthenumber.dll
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\refint\Guessthenumber.dll
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\Guessthenumber.pdb
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\Guessthenumber.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\Guessthenumber\Guessthenumber\obj\Debug\net7.0-windows\ref\Guessthenumber.dll
