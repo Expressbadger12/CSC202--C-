@@ -13,7 +13,15 @@ namespace _5._1Functions
             cmbOperation.Items.Add("Cosine of Theta");
             cmbOperation.Items.Add("Tangent of Theta");
             cmbOperation.SelectedIndex = 0;
-
+            //set tags for groups
+            txtX.Tag = "Group1"; //group1 = textboxes/text inputs
+            txtY.Tag = "Group1";
+            txtZ.Tag = "Group1";
+            btnCalculate.Tag = "Group2"; //group2 = buttons
+            btnClear.Tag = "Group2";
+            cmbOperation.Tag = "Group3"; //group3 = combo boxes
+            rdoBlueAngle.Tag = "Group4"; // group4 = radio buttons
+            rdoRedAngle.Tag = "Group4";
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -28,6 +36,17 @@ namespace _5._1Functions
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
+            foreach (Control ctrl in this.Controls)// foreachloop that returns all GUI elements colors that could have changed back to their default. 
+            {
+                if (ctrl.Tag != null && ctrl.Tag.ToString() != "Group4")
+                {
+                    ctrl.BackColor = SystemColors.Window;
+                }
+                else if (ctrl is RadioButton && ctrl.Tag != null && ctrl.Tag.ToString() == "Group4")
+                {
+                    ctrl.BackColor = SystemColors.Control;
+                }
+            }
             //makes sure that the program doesn't break when a user clicks calculate without entering values for x, y, and z. (0 is default)
             if (txtX.Text == "" || txtY.Text == "" || txtZ.Text == "")
             {
@@ -57,6 +76,7 @@ namespace _5._1Functions
             else
             {
                 ShowErrorMessage("Please select a triganomic function");
+                cmbOperation.BackColor = Color.LightCoral; //makes combo box red if nothing is selected
                 solution = 0;
             }
 
@@ -64,6 +84,13 @@ namespace _5._1Functions
             if (x + y <= z || z + y <= x || x + z <= y || y == 0 || x == 0 || z == 0)
             {
                 ShowErrorMessage("Triangle Impossible");
+                foreach (Control ctrl in this.Controls)// foreachloop that makes every textbox in group1 red when the triangle is impossible
+                {
+                    if (ctrl is TextBox && ctrl.Tag != null && ctrl.Tag.ToString() == "Group1")
+                    {
+                        ctrl.BackColor = Color.LightCoral;
+                    }
+                }
             }
 
             lblResult.Text = solution.ToString();
@@ -83,6 +110,13 @@ namespace _5._1Functions
             else
             {
                 ShowErrorMessage("Please select a value for Theta");
+                foreach (Control ctrl in this.Controls)// foreachloop that makes every radiobutton in group4 red when the there is no theta
+                {
+                    if (ctrl is RadioButton && ctrl.Tag != null && ctrl.Tag.ToString() == "Group4")
+                    {
+                        ctrl.BackColor = Color.LightCoral;
+                    }
+                }
                 return 0;
             }
         }
@@ -101,6 +135,13 @@ namespace _5._1Functions
             else
             {
                 ShowErrorMessage("Please select a value for Theta");
+                foreach (Control ctrl in this.Controls)// foreachloop that makes every radiobutton in group4 red when the there is no theta
+                {
+                    if (ctrl is RadioButton && ctrl.Tag != null && ctrl.Tag.ToString() == "Group4")
+                    {
+                        ctrl.BackColor = Color.LightCoral;
+                    }
+                }
                 return 0;
             }
         }
@@ -119,6 +160,13 @@ namespace _5._1Functions
             else
             {
                 ShowErrorMessage("Please select a value for Theta");
+                foreach (Control ctrl in this.Controls)// foreachloop that makes every radiobutton in group4 red when the there is no theta
+                {
+                    if (ctrl is RadioButton && ctrl.Tag != null && ctrl.Tag.ToString() == "Group4")
+                    {
+                        ctrl.BackColor = Color.LightCoral;
+                    }
+                }
                 return 0;
             }
         }
@@ -139,6 +187,26 @@ namespace _5._1Functions
             rdoBlueAngle.Checked = false;
             rdoRedAngle.Checked = false;
             lblResult.Text = "solution";
+            foreach (Control ctrl in this.Controls)// foreachloop that returns all GUI elements colors that could have changed back to their default. 
+            {
+                if (ctrl.Tag != null && ctrl.Tag.ToString() != "Group4")
+                {
+                    ctrl.BackColor = SystemColors.Window;
+                }
+                else if (ctrl is RadioButton && ctrl.Tag != null && ctrl.Tag.ToString() == "Group4")
+                {
+                    ctrl.BackColor = SystemColors.Control;
+                }
+            }
         }
     }
 }
+
+//Unused code that might come in handy later
+//foreach (Control ctrl in this.Controls)// foreachloop that returns all radio buttons back to their default color if there is a value for theta. 
+//{
+//    if (ctrl is RadioButton && ctrl.Tag != null && ctrl.Tag.ToString() == "Group4")
+//    {
+//        ctrl.BackColor = SystemColors.Control;
+//    }
+//}
