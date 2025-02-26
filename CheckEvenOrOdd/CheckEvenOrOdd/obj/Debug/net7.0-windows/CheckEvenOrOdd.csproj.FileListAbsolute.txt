@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\bin\Debug\net7.0-windows\CheckEvenOrOdd.exe
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\bin\Debug\net7.0-windows\CheckEvenOrOdd.deps.json
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\bin\Debug\net7.0-windows\CheckEvenOrOdd.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\bin\Debug\net7.0-windows\CheckEvenOrOdd.dll
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\bin\Debug\net7.0-windows\CheckEvenOrOdd.pdb
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\CheckEvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\CheckEvenOrOdd.Form1.resources
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\CheckEvenOrOdd.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\CheckEvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\CheckEvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\CheckEvenOrOdd.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\CheckEvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\CheckEvenOrOdd.dll
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\refint\CheckEvenOrOdd.dll
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\CheckEvenOrOdd.pdb
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\CheckEvenOrOdd.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\CheckEvenOrOdd\CheckEvenOrOdd\obj\Debug\net7.0-windows\ref\CheckEvenOrOdd.dll
