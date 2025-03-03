@@ -1,0 +1,16 @@
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\bin\Debug\net8.0-windows\RPGBattleSimulator.exe
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\bin\Debug\net8.0-windows\RPGBattleSimulator.deps.json
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\bin\Debug\net8.0-windows\RPGBattleSimulator.runtimeconfig.json
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\bin\Debug\net8.0-windows\RPGBattleSimulator.dll
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\bin\Debug\net8.0-windows\RPGBattleSimulator.pdb
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\RPGBattleSimulator.Form1.resources
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\RPGBattleSimulator.csproj.GenerateResource.cache
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\RPGBattleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\RPGBattleSimulator.AssemblyInfoInputs.cache
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\RPGBattleSimulator.AssemblyInfo.cs
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\RPGBattleSimulator.csproj.CoreCompileInputs.cache
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\RPGBattleSimulator.dll
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\refint\RPGBattleSimulator.dll
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\RPGBattleSimulator.pdb
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\RPGBattleSimulator.genruntimeconfig.cache
+C:\Users\fboon\source\repos\RPGBattleSimulator\RPGBattleSimulator\obj\Debug\net8.0-windows\ref\RPGBattleSimulator.dll
