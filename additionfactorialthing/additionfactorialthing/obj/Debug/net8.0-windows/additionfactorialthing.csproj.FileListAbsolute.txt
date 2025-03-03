@@ -1,0 +1,16 @@
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\bin\Debug\net8.0-windows\additionfactorialthing.exe
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\bin\Debug\net8.0-windows\additionfactorialthing.deps.json
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\bin\Debug\net8.0-windows\additionfactorialthing.runtimeconfig.json
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\bin\Debug\net8.0-windows\additionfactorialthing.dll
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\bin\Debug\net8.0-windows\additionfactorialthing.pdb
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\additionfactorialthing.Form1.resources
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\additionfactorialthing.csproj.GenerateResource.cache
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\additionfactorialthing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\additionfactorialthing.AssemblyInfoInputs.cache
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\additionfactorialthing.AssemblyInfo.cs
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\additionfactorialthing.csproj.CoreCompileInputs.cache
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\additionfactorialthing.dll
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\refint\additionfactorialthing.dll
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\additionfactorialthing.pdb
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\additionfactorialthing.genruntimeconfig.cache
+C:\Users\fboon\source\repos\additionfactorialthing\additionfactorialthing\obj\Debug\net8.0-windows\ref\additionfactorialthing.dll
