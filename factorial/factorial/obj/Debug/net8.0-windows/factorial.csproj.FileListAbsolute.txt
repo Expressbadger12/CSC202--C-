@@ -1,0 +1,16 @@
+C:\Users\fboon\source\repos\factorial\factorial\bin\Debug\net8.0-windows\factorial.exe
+C:\Users\fboon\source\repos\factorial\factorial\bin\Debug\net8.0-windows\factorial.deps.json
+C:\Users\fboon\source\repos\factorial\factorial\bin\Debug\net8.0-windows\factorial.runtimeconfig.json
+C:\Users\fboon\source\repos\factorial\factorial\bin\Debug\net8.0-windows\factorial.dll
+C:\Users\fboon\source\repos\factorial\factorial\bin\Debug\net8.0-windows\factorial.pdb
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\factorial.Form1.resources
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\factorial.csproj.GenerateResource.cache
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\factorial.AssemblyInfoInputs.cache
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\factorial.AssemblyInfo.cs
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\factorial.csproj.CoreCompileInputs.cache
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\factorial.dll
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\refint\factorial.dll
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\factorial.pdb
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\factorial.genruntimeconfig.cache
+C:\Users\fboon\source\repos\factorial\factorial\obj\Debug\net8.0-windows\ref\factorial.dll
