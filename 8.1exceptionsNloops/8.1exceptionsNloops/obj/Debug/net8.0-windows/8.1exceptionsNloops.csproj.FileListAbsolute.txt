@@ -1,0 +1,16 @@
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\bin\Debug\net8.0-windows\8.1exceptionsNloops.exe
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\bin\Debug\net8.0-windows\8.1exceptionsNloops.deps.json
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\bin\Debug\net8.0-windows\8.1exceptionsNloops.runtimeconfig.json
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\bin\Debug\net8.0-windows\8.1exceptionsNloops.dll
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\bin\Debug\net8.0-windows\8.1exceptionsNloops.pdb
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\_8._1exceptionsNloops.Form1.resources
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\8.1exceptionsNloops.csproj.GenerateResource.cache
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\8.1exceptionsNloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\8.1exceptionsNloops.AssemblyInfoInputs.cache
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\8.1exceptionsNloops.AssemblyInfo.cs
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\8.1exceptionsNloops.csproj.CoreCompileInputs.cache
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\8.1exceptionsNloops.dll
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\refint\8.1exceptionsNloops.dll
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\8.1exceptionsNloops.pdb
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\8.1exceptionsNloops.genruntimeconfig.cache
+C:\Users\fboon\source\repos\8.1exceptionsNloops\8.1exceptionsNloops\obj\Debug\net8.0-windows\ref\8.1exceptionsNloops.dll
