@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\bin\Debug\net7.0-windows\W9D1Customexception.exe
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\bin\Debug\net7.0-windows\W9D1Customexception.deps.json
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\bin\Debug\net7.0-windows\W9D1Customexception.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\bin\Debug\net7.0-windows\W9D1Customexception.dll
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\bin\Debug\net7.0-windows\W9D1Customexception.pdb
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\W9D1Customexception.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\W9D1Customexception.Form1.resources
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\W9D1Customexception.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\W9D1Customexception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\W9D1Customexception.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\W9D1Customexception.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\W9D1Customexception.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\W9D1Customexception.dll
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\refint\W9D1Customexception.dll
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\W9D1Customexception.pdb
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\W9D1Customexception.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\W9D1Customexception\W9D1Customexception\obj\Debug\net7.0-windows\ref\W9D1Customexception.dll
