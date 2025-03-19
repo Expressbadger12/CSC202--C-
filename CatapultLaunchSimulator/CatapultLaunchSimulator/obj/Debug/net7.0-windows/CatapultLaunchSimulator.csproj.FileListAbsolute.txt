@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\CatapultLaunchSimulator.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\CatapultLaunchSimulator.Form1.resources
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\CatapultLaunchSimulator.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\CatapultLaunchSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\CatapultLaunchSimulator.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\CatapultLaunchSimulator.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\CatapultLaunchSimulator.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\bin\Debug\net7.0-windows\CatapultLaunchSimulator.exe
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\bin\Debug\net7.0-windows\CatapultLaunchSimulator.deps.json
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\bin\Debug\net7.0-windows\CatapultLaunchSimulator.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\bin\Debug\net7.0-windows\CatapultLaunchSimulator.dll
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\bin\Debug\net7.0-windows\CatapultLaunchSimulator.pdb
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\CatapultLaunchSimulator.dll
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\refint\CatapultLaunchSimulator.dll
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\CatapultLaunchSimulator.pdb
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\CatapultLaunchSimulator.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\CatapultLaunchSimulator\CatapultLaunchSimulator\obj\Debug\net7.0-windows\ref\CatapultLaunchSimulator.dll
