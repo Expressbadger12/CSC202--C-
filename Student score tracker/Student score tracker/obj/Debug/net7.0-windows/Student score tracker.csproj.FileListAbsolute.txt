@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\bin\Debug\net7.0-windows\Student score tracker.exe
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\bin\Debug\net7.0-windows\Student score tracker.deps.json
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\bin\Debug\net7.0-windows\Student score tracker.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\bin\Debug\net7.0-windows\Student score tracker.dll
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\bin\Debug\net7.0-windows\Student score tracker.pdb
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\Student score tracker.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\Student_score_tracker.Form1.resources
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\Student score tracker.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\Student score tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\Student score tracker.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\Student score tracker.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\Student score tracker.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\Student score tracker.dll
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\refint\Student score tracker.dll
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\Student score tracker.pdb
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\Student score tracker.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\Student score tracker\Student score tracker\obj\Debug\net7.0-windows\ref\Student score tracker.dll
