@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\bin\Debug\net7.0-windows\GroceryTracker.exe
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\bin\Debug\net7.0-windows\GroceryTracker.deps.json
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\bin\Debug\net7.0-windows\GroceryTracker.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\bin\Debug\net7.0-windows\GroceryTracker.dll
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\bin\Debug\net7.0-windows\GroceryTracker.pdb
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\GroceryTracker.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\GroceryTracker.Form1.resources
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\GroceryTracker.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\GroceryTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\GroceryTracker.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\GroceryTracker.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\GroceryTracker.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\GroceryTracker.dll
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\refint\GroceryTracker.dll
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\GroceryTracker.pdb
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\GroceryTracker.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\GroceryTracker\GroceryTracker\obj\Debug\net7.0-windows\ref\GroceryTracker.dll
