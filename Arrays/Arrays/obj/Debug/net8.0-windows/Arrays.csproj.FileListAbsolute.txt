@@ -1,0 +1,16 @@
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.exe
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.deps.json
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.runtimeconfig.json
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.dll
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.pdb
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.Form1.resources
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.csproj.GenerateResource.cache
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.AssemblyInfoInputs.cache
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.AssemblyInfo.cs
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.dll
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\refint\Arrays.dll
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.pdb
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.genruntimeconfig.cache
+C:\Users\fboon\Desktop\CSC202\Arrays\Arrays\obj\Debug\net8.0-windows\ref\Arrays.dll
