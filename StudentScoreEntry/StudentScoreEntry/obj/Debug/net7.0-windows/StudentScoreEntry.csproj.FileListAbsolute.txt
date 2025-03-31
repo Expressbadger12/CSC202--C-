@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\bin\Debug\net7.0-windows\StudentScoreEntry.exe
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\bin\Debug\net7.0-windows\StudentScoreEntry.deps.json
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\bin\Debug\net7.0-windows\StudentScoreEntry.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\bin\Debug\net7.0-windows\StudentScoreEntry.dll
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\bin\Debug\net7.0-windows\StudentScoreEntry.pdb
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\StudentScoreEntry.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\StudentScoreEntry.Form1.resources
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\StudentScoreEntry.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\StudentScoreEntry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\StudentScoreEntry.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\StudentScoreEntry.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\StudentScoreEntry.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\StudentScoreEntry.dll
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\refint\StudentScoreEntry.dll
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\StudentScoreEntry.pdb
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\StudentScoreEntry.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\StudentScoreEntry\StudentScoreEntry\obj\Debug\net7.0-windows\ref\StudentScoreEntry.dll
