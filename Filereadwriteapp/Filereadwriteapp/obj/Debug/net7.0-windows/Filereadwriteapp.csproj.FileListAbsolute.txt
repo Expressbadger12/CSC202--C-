@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\bin\Debug\net7.0-windows\Filereadwriteapp.exe
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\bin\Debug\net7.0-windows\Filereadwriteapp.deps.json
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\bin\Debug\net7.0-windows\Filereadwriteapp.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\bin\Debug\net7.0-windows\Filereadwriteapp.dll
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\bin\Debug\net7.0-windows\Filereadwriteapp.pdb
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\Filereadwriteapp.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\Filereadwriteapp.Form1.resources
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\Filereadwriteapp.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\Filereadwriteapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\Filereadwriteapp.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\Filereadwriteapp.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\Filereadwriteapp.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\Filereadwriteapp.dll
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\refint\Filereadwriteapp.dll
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\Filereadwriteapp.pdb
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\Filereadwriteapp.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\Filereadwriteapp\Filereadwriteapp\obj\Debug\net7.0-windows\ref\Filereadwriteapp.dll
