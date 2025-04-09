@@ -1,0 +1,17 @@
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\bin\Debug\net7.0-windows\ArrayListFileApp.exe
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\bin\Debug\net7.0-windows\ArrayListFileApp.deps.json
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\bin\Debug\net7.0-windows\ArrayListFileApp.runtimeconfig.json
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\bin\Debug\net7.0-windows\ArrayListFileApp.dll
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\bin\Debug\net7.0-windows\ArrayListFileApp.pdb
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ArrayListFileApp.csproj.AssemblyReference.cache
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ArrayListFileApp.Form1.resources
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ArrayListFileApp.csproj.GenerateResource.cache
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ArrayListFileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ArrayListFileApp.AssemblyInfoInputs.cache
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ArrayListFileApp.AssemblyInfo.cs
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ArrayListFileApp.csproj.CoreCompileInputs.cache
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ArrayListFileApp.dll
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\refint\ArrayListFileApp.dll
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ArrayListFileApp.pdb
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ArrayListFileApp.genruntimeconfig.cache
+C:\Users\FSTEWART86142\source\repos\ArrayListFileApp\ArrayListFileApp\obj\Debug\net7.0-windows\ref\ArrayListFileApp.dll
