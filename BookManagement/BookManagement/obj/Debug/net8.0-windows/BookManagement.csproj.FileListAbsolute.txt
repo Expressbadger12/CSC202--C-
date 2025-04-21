@@ -1,0 +1,17 @@
+C:\Users\fboon\source\repos\BookManagement\BookManagement\bin\Debug\net8.0-windows\BookManagement.exe
+C:\Users\fboon\source\repos\BookManagement\BookManagement\bin\Debug\net8.0-windows\BookManagement.deps.json
+C:\Users\fboon\source\repos\BookManagement\BookManagement\bin\Debug\net8.0-windows\BookManagement.runtimeconfig.json
+C:\Users\fboon\source\repos\BookManagement\BookManagement\bin\Debug\net8.0-windows\BookManagement.dll
+C:\Users\fboon\source\repos\BookManagement\BookManagement\bin\Debug\net8.0-windows\BookManagement.pdb
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\BookManagement.Form1.resources
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\BookManagement.FormAddBook.resources
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\BookManagement.csproj.GenerateResource.cache
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\BookManagement.AssemblyInfoInputs.cache
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\BookManagement.AssemblyInfo.cs
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\BookManagement.dll
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\refint\BookManagement.dll
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\BookManagement.pdb
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\BookManagement.genruntimeconfig.cache
+C:\Users\fboon\source\repos\BookManagement\BookManagement\obj\Debug\net8.0-windows\ref\BookManagement.dll
